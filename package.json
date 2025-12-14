@@ -1,0 +1,20 @@
+{
+  "name": "arqui_limpia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "interfaz/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon interfaz/app.js",
+    "start": "node interfaz/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
